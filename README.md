@@ -1,2 +1,3 @@
-# tanishka
-this is my first repo
+# demo
+this is my first gitrepo
+Author:Tanishka Trehan
